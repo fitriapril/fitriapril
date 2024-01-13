@@ -1,10 +1,10 @@
 ### Hi there I am Fitri Aprianti Fauziah 👋
-hi, i'm [Fitri April], a passionate self-taught full stack web developer and a freelance software engineer from Indonesia my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Fitri April], a passionate beginner self-taught web developer and freelance software Associate Expert from Indonesia. My love for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I pay a lot of attention to the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+i am also a budding enthusiast .i learn a lot from the open source community and i love how collaboration and knowledge sharing happens through open source.
 
 
-  <img align="right" alt="GIF" src="" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="500" height="320" />
   
 
 - 💬 ask me about anything, i am happy to help;
@@ -28,22 +28,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+
 
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
