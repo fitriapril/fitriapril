@@ -1,5 +1,5 @@
 ### Hi there I am Fitri Aprianti Fauziah 👋
-Hi, I'm [Fitri April], a passionate beginner self-taught web developer and freelance software Associate Expert from Indonesia. My love for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I pay a lot of attention to the experience, architecture, and code quality of the things I build.
+Hi, I'm [Fitri April], a passionate beginner self-taught web developer and freelance software from Indonesia. My love for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I pay a lot of attention to the experience, architecture, and code quality of the things I build.
 
 i am also a budding enthusiast .i learn a lot from the open source community and i love how collaboration and knowledge sharing happens through open source.
 
